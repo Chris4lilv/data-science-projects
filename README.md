@@ -1,8 +1,8 @@
 # **Data-science-projects**
-<p><h2><span style="font-family:Arial">This is a repository where I put all of my machine learning as well as data analysis code from either coursework or self-learning.</span><h2></p>
+<p><h2>This is a repository where I put all of my machine learning as well as data analysis code from either coursework or self-learning.<h2></p>
 
 ## **Algorithms**
-<p><h3><span style="font-family:Arial">This part help me to better understand each machine learning algorithm by implementing it using python. <br><em>Reference: Machine Learning In Action by Peter Harrington</em></h3><p>
+<p><h3>This part help me to better understand each machine learning algorithm by implementing it using python. <br><em>Reference: Machine Learning In Action by Peter Harrington</em></h3><p>
 
 ------
 
@@ -13,6 +13,7 @@
 
 ## **Kaggle**
 * ### [Titanic: Machine Learning from Disaster]()
+* ### [Bag of Words Meets Bags of Popcorn: Use Google's Word2Vec for movie reviews]()
 
 ## **Projects**
 * ### [nba-prediction-2020](https://github.com/Chris4lilv/data-science-projects/tree/master/projects/nba-prediction-2020)
