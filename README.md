@@ -12,8 +12,11 @@
     ><span style="font-family:Arial">Idea: Find the feature that play the most important role in classification by calculating information gain, then split the dataset until we reach the point where the data under the branch belongs to a single category
 
 ## **Kaggle**
-* ### [Titanic: Machine Learning from Disaster]()
+* ### [Titanic: Machine Learning from Disaster](https://github.com/Chris4lilv/data-science-projects/tree/master/kaggle/Titanic%20Prediction)
+* ### [House Price: Advanced Regression Techniques](https://github.com/Chris4lilv/data-science-projects/tree/master/kaggle/House%20Price%20Prediction)
+* ### [Google Cloud & NCAA ML Competition](https://github.com/Chris4lilv/data-science-projects/tree/master/kaggle/google-cloud-ncaa-march-madness-2020-division-1-mens-tournament)
 * ### [Bag of Words Meets Bags of Popcorn: Use Google's Word2Vec for movie reviews]()
+
 
 ## **Projects**
 * ### [nba-prediction-2020](https://github.com/Chris4lilv/data-science-projects/tree/master/projects/nba-prediction-2020)
