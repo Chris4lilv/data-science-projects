@@ -1,5 +1,5 @@
 # **Data-science-projects**
-<p><h2>This is a repository where I put all of my machine learning as well as data analysis code from either coursework or self-learning.<h2></p>
+<p><h2>This is a repository where I put all of my machine learning as well as data analysis code from either coursework or competition.<h2></p>
 
 ## **Algorithms**
 <p><h3>This part help me to better understand each machine learning algorithm by implementing it using python. <br><em>Reference: Machine Learning In Action by Peter Harrington</em></h3><p>
