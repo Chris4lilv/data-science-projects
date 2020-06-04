@@ -1,0 +1,4 @@
+#Ignore dataset
+*.csv
+#Ignore tmp file of ipynb
+*.ipynb
